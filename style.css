@@ -3,7 +3,6 @@
   src: url(fonts/BarlowSemiCondensed-Light.ttf) format('truetype');
   font-weight: 300;
   font-style: normal;
-  font-display: swap;
 }
 
 @font-face {
@@ -11,7 +10,6 @@
   src: url(fonts/BarlowSemiCondensed-Medium.ttf) format('truetype');
   font-weight: 500;
   font-style: normal;
-  font-display: swap;
 
 }
 
@@ -20,7 +18,6 @@
   src: url(fonts/BarlowSemiCondensed-SemiBold.ttf) format('truetype');
   font-weight: 600;
   font-style: normal;
-  font-display: swap;
 }
 
 :root{
@@ -131,7 +128,7 @@ img{
 .item1 .container__main-p{
   max-width: 29.688rem;
   color: hsl(0, 0%, 100%);
-  text-align: justify;
+  /* text-align: justify; */
   font-size: 1.25rem;  /* 20px */
   z-index: 2;
 }
