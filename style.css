@@ -126,7 +126,7 @@ img{
 }
 
 .item1 .container__main-p{
-  max-width: 60ch;
+  max-width: 80ch;
   color: hsl(0, 0%, 100%);
   /* text-align: justify; */
   font-size: 1.25rem;  /* 20px */
