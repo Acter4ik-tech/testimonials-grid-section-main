@@ -1,23 +1,25 @@
 @font-face {
   font-family: 'Barlow';
-  src: url(fonts/BarlowSemiCondensed-Light.ttf) format('truetype');
+  src: url(fonts/BarlowSemiCondensed-Light.woff2) format('woff2');
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Barlow';
-  src: url(fonts/BarlowSemiCondensed-Medium.ttf) format('truetype');
+  src: url(fonts/BarlowSemiCondensed-Medium.woff2) format('woff2');
   font-weight: 500;
   font-style: normal;
-
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Barlow';
-  src: url(fonts/BarlowSemiCondensed-SemiBold.ttf) format('truetype');
+  src: url(fonts/BarlowSemiCondensed-SemiBold.woff2) format('woff2');
   font-weight: 600;
   font-style: normal;
+  font-display: swap;
 }
 
 :root{
