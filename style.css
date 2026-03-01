@@ -220,10 +220,6 @@ img{
     box-shadow: 13px 21px 10px hsla(224, 10%, 45%, 0.2);
   }
   
-  /* .container__main-p{
-    width: auto;
-    max-width: auto;
-  } */
   .container__main-p br{
     display: none;
   }
@@ -248,25 +244,3 @@ img{
     max-width: 23ch;
   }
 }
-
-
-
-/* @media (max-width: 75rem) {
-  .cards {
-    justify-content: center;
-    grid-template-columns: 1fr;
-    max-width: 19.063rem;
-    grid-template-areas: none;
-  }
-
-  .item1,
-  .item2,
-  .item3,
-  .item4,
-  .item5 {
-    grid-area: auto;
-  }
-  .item1-svg{
-    display: none;
-  }
-} */
